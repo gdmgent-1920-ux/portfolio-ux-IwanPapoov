@@ -1,8 +1,8 @@
 # UX portfolio template 1920
 
-## Name:
+## Name: Iwan Papoov
 
-## Group:
+## Group: 1AVDB
 
 ## Getting Started
 
